@@ -18,10 +18,13 @@ scaling and accurate measurements.
 accurate hand detection.
 3) Keep your palm and fingers directly facing the camera. Avoid tilting, as angles
 can affect measurement accuracy.
+
 4)For accurate scaling, place your hand close enough to the camera so that it
 nearly fills the box, without crossing the edges.
+
 5)Stay still during the countdown. Movement can cause inaccurate readings or
 cancel the capture.
+
 6)To ensure accurate hand measurement, use a clean background, like a plain
 wall or desk, to avoid detection confusion.
 
