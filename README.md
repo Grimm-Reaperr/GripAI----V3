@@ -13,22 +13,12 @@ This project captures hand measurements (width and height in inches) using a web
 
 Real-Time User Guidance for Hand Measurement:
 
-1) Ensure your laptop or webcam is stable. A fixed camera ensures consistent
-scaling and accurate measurements.
-2) Avoid excessive brightness, glare, or shadows. Use soft, even lighting for
-accurate hand detection.
-3) Keep your palm and fingers directly facing the camera. Avoid tilting, as angles
-can affect measurement accuracy.
-
-  4)For accurate scaling, place your hand close enough to the camera so that it
-  nearly fills the box without crossing the edges.
-  
-  5)Stay still during the countdown. Movement can cause inaccurate readings or
-  cancel the capture.
-  
-  6)To ensure accurate hand measurement, use a clean background, like a plain
-  wall or desk, to avoid detection confusion.
-
+1) Ensure your laptop or webcam is stable. A fixed camera ensures consistent scaling and accurate measurements.
+2) Avoid excessive brightness, glare, or shadows. Use soft, even lighting for accurate hand detection.
+3) Keep your palm and fingers directly facing the camera. Avoid tilting, as angles can affect measurement accuracy.
+4) For accurate scaling, place your hand close enough to the camera so that it nearly fills the box without crossing the edges.
+5) Stay still during the countdown. Movement can cause inaccurate readings or cancel the capture.
+6) To ensure accurate hand measurement, use a clean background, like a plain wall or desk, to avoid detection confusion.
 
 ## How to Run
 
