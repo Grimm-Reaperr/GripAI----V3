@@ -24,5 +24,5 @@ Real-Time User Guidance for Hand Measurement:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/hand-measurement.git
-cd hand-measurement 
+git clone https://github.com/Grimm-Reaperr/GripAI----V3.git
+cd GripAI----V3
